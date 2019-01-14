@@ -1,4 +1,4 @@
-# Hierarchical Vue-like MV\* frame work
+# Hierarchical Vue-like MV\* framework
 
 Set up your database credentials in Core/Settings/DatabaseConnection.php
 
