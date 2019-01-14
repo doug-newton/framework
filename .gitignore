@@ -1,0 +1,4 @@
+.*.sw?
+*.vim
+node_modules
+vendor
